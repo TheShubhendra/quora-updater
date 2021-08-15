@@ -1,0 +1,4 @@
+python-decouple
+git+https://github.com/TheShubhendra/pyquora.git
+git+https://github.com/TheShubhendra/profile-watcher.git
+aiohttp[speedups]
